@@ -1,0 +1,9 @@
+[submodule "test-repo-1"]
+	path = test-repo-1
+	url = https://github.com/6shihab/test-repo-1.git
+[submodule "test-repo-2"]
+	path = test-repo-2
+	url = https://github.com/6shihab/test-repo-2.git
+[submodule "test-repo-3"]
+	path = test-repo-3
+	url = https://github.com/6shihab/test-repo-3.git
